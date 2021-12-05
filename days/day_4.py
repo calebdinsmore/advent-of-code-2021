@@ -7,7 +7,7 @@ class Board:
     """
     This contains the Bingo board and a parallel 2D list that starts as a 5x5 grid of 0s.
     When a number is called, the 0 that corresponds with the position of the number of the board is flipped to 1.
-    
+
     To determine whether a board is in a winning state, sum each row and each column until the sum of a row or column
     if 5, indicating all 1s in that row or column.
     """
