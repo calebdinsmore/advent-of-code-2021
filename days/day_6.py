@@ -2,12 +2,6 @@ from typing import List, Dict
 
 from . import path_to_input
 
-"""
-Day 6 - Lanternfish
-
-
-"""
-
 
 def bad_simulate_fish(days: int, initial_state: List[int]):
     """
