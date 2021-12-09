@@ -1,5 +1,5 @@
-from days import day_8
+from days import day_9
 
 
 if __name__ == '__main__':
-    print(day_8.part_two())
+    print(day_9.part_two())
